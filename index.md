@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Falk's web page</title>
+        <meta http-equiv="refresh" content="0; URL=https://sites.google.com/view/fscholer/" />
     </head>
     <body>
-        <h1>My page!</h1>
     </body>
 </html>
